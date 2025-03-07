@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner]("https://i.ibb.co/rRVMqm1n/work.jpg")](https://nocturnalcoders.dev)
+[![Braydon's GitHub Banner]("[url=https://postimg.cc/1fd1Jnks][img]https://i.postimg.cc/1fd1Jnks/work.jpg[/img][/url]")](https://nocturnalcoders.dev)
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
