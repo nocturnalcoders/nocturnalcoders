@@ -7,9 +7,13 @@
 
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I'm Christianto Lie, also known as NocturnalCoders, because I code through the night and handle meetings (or sleep) in the morning. As a specialist in full-stack development and a senior backend engineer/technical leader, I focus on designing and building high-performance, scalable applications with robust system architecture.
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+With a strong analytical mindset, I craft efficient backend solutions while also having frontend expertise. I emphasize clean, maintainable code by following best practices like KISS and DRY, and I continuously refine systems using TDD, IDD, and BDD to ensure reliability and scalability.
+
+Lately, I've been diving into Web3 development, exploring blockchain technology and smart contract development as I expand my expertise in decentralized applications.
+
+Want to know more about me? [Check out my portfolio.](https://nocturnalcoders.dev/)
 
 ## 📝 Latest Blog Posts
 
@@ -25,23 +29,23 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/nocturnalcoders/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/pomegradient">
+<a href="https://github.com/nocturnalcoders/pomegradient">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
+<a href="https://github.com/nocturnalcoders/ng-limeade">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer/officeapi">
+<a href="https://github.com/nocturnalcoders/officeapi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -52,11 +56,11 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <br>
 
-<a href="https://github.com/braydoncoyer">
+<a href="https://github.com/nocturnalcoders">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
+<a href="https://github.com/nocturnalcoders">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
