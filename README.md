@@ -19,8 +19,6 @@
 <img src="https://komarev.com/ghpvc/?username=nocturnalcoders&style=flat-square&color=8ab4ff&label=profile+views" alt="Profile views" />
 <img src="https://img.shields.io/badge/Based%20in-Singapore-0b1020?style=flat-square&logo=googlemaps&logoColor=c69bff&labelColor=1a1b4b" alt="Based in Singapore" />
 <img src="https://img.shields.io/badge/README-AI%20generated%20%E2%9C%A8-0b1020?style=flat-square&logo=anthropic&logoColor=c69bff&labelColor=1a1b4b" alt="AI generated README" />
-<img src="https://img.shields.io/badge/%F0%9F%A4%96_README-refreshed_nightly_by_AI-3b2a78?style=flat-square&labelColor=0b1020" alt="Refreshed nightly by AI" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8D-Singapore-1a1b4b?style=flat-square&labelColor=0b1020" alt="Singapore" />
 
 </div>
 
@@ -70,17 +68,6 @@ I design and build **high-performance, scalable applications** with solid system
 </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- ─────────────────────────  AI NIGHTLY LOG  ───────────────────────── -->
-## 🤖 &nbsp;Nightly log <sub><sup>written by AI from my public GitHub activity</sup></sub>
-
-<!-- AI-NIGHTLY:START -->
-> 🌙 **Booting up…** The night shift hasn’t filed its first report yet. Check back after midnight Singapore time.
-<!-- AI-NIGHTLY:END -->
-
-<sub>Every night at 00:00 SGT a GitHub Action reads my latest public activity and asks Claude to write this log. No human edits.</sub>
 
 <br/>
 
@@ -136,6 +123,7 @@ I design and build **high-performance, scalable applications** with solid system
 | [**hris_frontend**](https://github.com/nocturnalcoders/hris_frontend) | HRIS web frontend with React + Vite | ![TypeScript](https://img.shields.io/badge/-TypeScript-0b1020?style=flat-square&logo=typescript&logoColor=8ab4ff) ![React](https://img.shields.io/badge/-React-0b1020?style=flat-square&logo=react&logoColor=8ab4ff) |
 | [**ait_imagerecognition_german**](https://github.com/nocturnalcoders/ait_imagerecognition_german) | Image recognition project in Python | ![Python](https://img.shields.io/badge/-Python-0b1020?style=flat-square&logo=python&logoColor=8ab4ff) |
 | [**portalstudycenter**](https://github.com/nocturnalcoders/portalstudycenter) | Spring Boot MVC + MySQL with role-based authorization (Spring Security) | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0b1020?style=flat-square&logo=springboot&logoColor=8ab4ff) |
+
 <br/>
 
 <!-- ─────────────────────────  STATS  ───────────────────────── -->
@@ -143,17 +131,21 @@ I design and build **high-performance, scalable applications** with solid system
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nocturnalcoders&theme=tokyonight" width="100%" alt="Profile details" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nocturnalcoders&theme=tokyonight" alt="GitHub stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nocturnalcoders&theme=tokyonight" alt="Top languages" />
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+
+<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=nocturnalcoders&hide_border=true&background=0B1020&ring=8AB4FF&fire=B392F0&currStreakLabel=8AB4FF&sideLabels=C9D1FF&currStreakNum=E0E6FF&sideNums=E0E6FF&dates=7B83B3&stroke=1A1B4B" alt="Contribution streak" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nocturnalcoders&hide_border=true&bg_color=0b1020&color=8ab4ff&line=b392f0&point=e0e6ff&area=true&area_color=3b2a78" alt="Activity graph" />
+<img width="100%" src="https://raw.githubusercontent.com/nocturnalcoders/nocturnalcoders/output/snake-night.svg" alt="Contribution snake eating the night grid" />
 
 </div>
 
